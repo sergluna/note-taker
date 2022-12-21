@@ -16,6 +16,9 @@ You will run the file using node.js which will initiate the inquirer prompts. On
 ![badmath](https://img.shields.io/badge/License-MIT-red)
 
 ---
+## Screen Capture
+https://app.castify.com/view/98709b38-8c38-47bc-85a7-92f8bdbf0e61
+---
 
 ## Questions
 
