@@ -1,7 +1,7 @@
 # team generator
 
 ## Description
-A team leasd is creating an HTML document after using command line prompts to answer questions about their team. 
+A team lead is creating an HTML document after using command line prompts to answer questions about their team. 
 
 ---
 ## Usage
